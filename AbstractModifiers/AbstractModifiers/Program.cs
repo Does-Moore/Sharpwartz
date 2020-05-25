@@ -10,6 +10,7 @@ namespace AbstractModifiers
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
